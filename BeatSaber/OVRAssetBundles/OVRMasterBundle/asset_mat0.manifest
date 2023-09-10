@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1996616793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d04cc2e2ae439db095e4d5d830792c9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c3ef2ee69f33b2764fe209f632226a0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Material/RedSaber.mat
+- Assets/Material/Blue Decoration.mat
+- Assets/Material/SaberHandler.mat
+- Assets/Material/BlueSaber.mat
+- Assets/Material/GroundMat.mat
+- Assets/Material/Red Decoration.mat
+- Assets/Material/Red.mat
+- Assets/Material/Blue.mat
+Dependencies: []

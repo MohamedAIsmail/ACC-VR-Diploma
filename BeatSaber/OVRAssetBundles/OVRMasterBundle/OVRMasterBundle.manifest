@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3050374870
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asset_resources
+      Dependencies: {}
+    Info_1:
+      Name: scene_samplescene
+      Dependencies:
+        Dependency_0: asset_asset0
+        Dependency_1: asset_prefab0
+        Dependency_2: asset_mp30
+        Dependency_3: asset_mat0
+        Dependency_4: asset_exr0
+    Info_2:
+      Name: asset_shader0
+      Dependencies: {}
+    Info_3:
+      Name: asset_png0
+      Dependencies: {}
+    Info_4:
+      Name: asset_png1
+      Dependencies: {}
+    Info_5:
+      Name: asset_png2
+      Dependencies: {}
+    Info_6:
+      Name: asset_asset0
+      Dependencies:
+        Dependency_0: asset_shader0
+        Dependency_1: asset_png0
+        Dependency_2: asset_png1
+        Dependency_3: asset_png2
+        Dependency_4: asset_compute0
+        Dependency_5: asset_tga0
+    Info_7:
+      Name: asset_compute0
+      Dependencies: {}
+    Info_8:
+      Name: asset_prefab0
+      Dependencies:
+        Dependency_0: asset_mat0
+    Info_9:
+      Name: asset_tga0
+      Dependencies: {}
+    Info_10:
+      Name: asset_mp30
+      Dependencies: {}
+    Info_11:
+      Name: asset_mat0
+      Dependencies: {}
+    Info_12:
+      Name: asset_exr0
+      Dependencies: {}

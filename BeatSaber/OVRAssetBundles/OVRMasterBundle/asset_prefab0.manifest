@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2027414659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8db8ac082e8276cb2d59c92c488c906a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e36467236402e0fcba1a0176d89b2c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d31dd6a18ac653439e048dee7ba6a9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43d23839d5572d041b3a60cf92f120b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50d8090612348614a909119464747f63, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/BlueSaber.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/Prefabs/Blue Cube.prefab
+- Assets/Prefabs/RedSaber.prefab
+- Assets/Prefabs/Red Cube .prefab
+Dependencies:
+- D:/VRDiploma/BeatSaber/OVRAssetBundles/OVRMasterBundle/asset_mat0

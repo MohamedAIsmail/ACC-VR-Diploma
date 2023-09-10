@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3033136281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90f386dea93e7dd59cba5a429018938f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: febb50994d26f4cbc302a87722ce8b79
+HashAppended: 0
+ClassTypes:
+- Class: 72
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/AutoExposure.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture3DLerp.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GaussianDownsample.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample2.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ExposureHistogram.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVOUpsample.compute
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute
+Dependencies: []

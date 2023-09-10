@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 361794086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f9718c8376fc3d2481f02481e9210c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a4f96af3a44d569be37a6879bfd2db9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.BoolParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.ColorParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.FloatParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/ComputeShaders
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/SMAALuts
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/Shaders
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.TextureParameter
+Assets:
+- Assets/Post Processing/New Post-processing Profile.asset
+- Packages/com.unity.postprocessing/PostProcessing/PostProcessResources.asset
+Dependencies:
+- D:/VRDiploma/BeatSaber/OVRAssetBundles/OVRMasterBundle/asset_compute0
+- D:/VRDiploma/BeatSaber/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/VRDiploma/BeatSaber/OVRAssetBundles/OVRMasterBundle/asset_png1
+- D:/VRDiploma/BeatSaber/OVRAssetBundles/OVRMasterBundle/asset_png2
+- D:/VRDiploma/BeatSaber/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/VRDiploma/BeatSaber/OVRAssetBundles/OVRMasterBundle/asset_tga0
